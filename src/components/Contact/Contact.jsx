@@ -1,6 +1,6 @@
 import InputField from "./InputField";
 import TextAreaField from "./TextAreaField";
-import SvgComponent from "./SVGComponent";
+import SvgComponent from "./SvgComponent";
 
 export default function Contact() {
   const contactDetails = [
