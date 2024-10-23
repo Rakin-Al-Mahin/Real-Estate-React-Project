@@ -48,9 +48,8 @@ export default function Footer() {
                 We create digital experiences for brands and companies by using
                 technology.
               </p>
+              <FooterSocialLinks />
             </div>
-
-            <FooterSocialLinks />
           </div>
           <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
             <FooterLinkGroup title="About Us" links={aboutUsLinks} />
